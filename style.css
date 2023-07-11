@@ -182,7 +182,14 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+   
+}
+
+.bouqet-imagess{
+    display: flex;
     padding-bottom: 90px;
+    align-items: center;
+    justify-content: center;
 }
 
 .inpt-b{
