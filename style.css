@@ -286,3 +286,28 @@ input[type="email"]{
 .inpt > button{
     height: 40px;
 }
+/* footer */
+.ftr{
+    background: black;
+    height: 320px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+.ftr > h1{
+    padding-top: 100px;
+    color: white;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.cpy{
+    color: #D9EFF1;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.cpy-rgt{
+    font-size: 11px;
+    color: #8e8e8e;
+}
+
