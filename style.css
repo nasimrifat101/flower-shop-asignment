@@ -8,6 +8,10 @@
     font-family: 'Lato', sans-serif;
 }
 
+.hilight{
+    color: #E55473;
+}
+
 .btn-all{
     background: #E55473;
     border-radius: 5px;
@@ -56,3 +60,229 @@
     
 }
 /* featured */
+.featured{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 150px;
+    margin: 20px 150px;
+}
+.frflower{
+    font-size: 30px;
+    color: #272727;
+    padding-bottom: 20px;
+
+}
+.fe-in{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    width: 500px;
+    padding-left: 220px;
+    color: #7d7d7d;
+    font-size: 14px;
+
+}
+
+.flowerss{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-items: center;
+}
+
+.f-p{
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.flowers-bg{
+    padding: 5px;
+    height: 350px;
+    width: 280px;
+    border-radius: 300px 300px 0px 0px;
+    background: #F2DEE7;
+}
+.flowers-bgs{
+    padding: 5px;
+    height: 350px;
+    width: 280px;
+    border-radius: 300px 300px 0px 0px;
+    background: #D9EFF1;
+}
+.flowers-bgt{
+    padding: 5px;
+    height: 350px;
+    width: 280px;
+    border-radius: 300px 300px 0px 0px;
+    background:#E3EBDB;
+}
+
+
+
+.flwr{
+   height: 280px;
+   margin-top: 75px;
+   margin-left: 30px;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+.flwrs{
+   height: 230px;
+   margin-top: 75px;
+   margin-left: 30px;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+.flwrt{
+   height: 290px;
+   margin-top: 65px;
+   margin-left: 10px;
+   justify-content: space-between;
+   align-items: center;
+   
+   
+}
+
+.paragraph{
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+/* deliver */
+.delevery{
+    display: flex;
+    background: #f4f4f4;
+    height: 250px;
+    width: 100%;
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+
+}
+.imgf{
+    padding: 40px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.imgicon{
+    height: 60px;
+    padding-bottom: 20px;
+    
+}
+.imgf p{
+    color:#6e6d6d;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+/* discount section */
+.discount{
+    background: #FEF6F8;
+    height: 450px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.hot-d{
+    text-align: center;
+    padding: 170px;
+}
+.hot-d > h1{
+    font-size: 35px;
+    font-weight:800;
+    margin-bottom: 20px;
+} 
+.hilight{
+    color: #E55473;
+}
+.hot-d > p{
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #6e6d6d;
+}
+.img-d{
+    padding-right: 180px;
+}
+.gulab{
+    height: 330px;
+}
+/* instagram */
+/* instagram sec */
+.instagram{
+    padding:0px 150px ;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.txt-sec > h1{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.txt-sec > p{
+    font-size: 14px;
+    color: #6e6d6d;
+    margin-bottom: 30px;
+}
+.images-insta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.insta{
+    height: 238px;
+    margin-bottom: 100px;
+}
+
+/* news sec */
+.news{
+    height: 300px;
+    width: 100%;
+    background-image: url(asset/Rectangle\ 9.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.news-txt{
+    text-align: center;
+    justify-content: center;
+    padding-top: 60px;
+}
+.news-txt > h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.news-txt > p{
+    font-size: 14px;
+    color: #6e6d6d;
+    margin-bottom: 17px;
+}
+.inpt{
+    display:flex ;
+    justify-content: center;
+    padding-top: 20px;
+}
+input[type="email"]{
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.inpt > button{
+    height: 40px;
+}
