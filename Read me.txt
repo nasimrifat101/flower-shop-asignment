@@ -1,0 +1,1 @@
+This code is done in 14 inch laptop. and most suitable for 14inch devices as we do not know hot to make website responsive yet. please consider this while judging. Thank you.
