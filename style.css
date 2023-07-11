@@ -155,7 +155,9 @@
     margin-bottom: 100px;
 }
 /* bouqet */
-
+.bouqet{
+    scroll-margin-left: ;
+}
 .bouq-txt{
     text-align: center;
 }
@@ -180,8 +182,10 @@
 .bq-i{
     height: 250px;
     align-items: center;
-    justify-content: space-between;
-    padding: 20px;
+    justify-content: space-around;
+    padding: 0px 20px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
    
 }
 
@@ -190,6 +194,7 @@
     padding-bottom: 90px;
     align-items: center;
     justify-content: center;
+    
 }
 
 .inpt-b{
@@ -204,6 +209,27 @@
     border: blueviolet 2px solid;
     border-radius: 10px;
     margin-right: 10px;
+}
+
+.flow-name{
+    text-align: left;
+    padding-left: 10%;
+    font-size: 145%;
+    padding-bottom: 3%;
+}
+
+.price-para{
+    padding-bottom: 15%;
+    text-align: left;
+    justify-content: left;
+    padding-left: 10%;
+    font-size: 12px;
+
+}
+.tttt{
+    color: #E55473;
+    font-size: 20px;
+    font-weight: 900;
 }
 
 /* deliver */
